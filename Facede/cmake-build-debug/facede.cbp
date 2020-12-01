@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="facede"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="facede">
+				<Option output="/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug/facede" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug/Makefile&quot;  VERBOSE=1 facede"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="facede/fast">
+				<Option output="/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug/facede" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug/Makefile&quot;  VERBOSE=1 facede/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/rafaelfigueredog/CLionProjects/facede/Board.cpp">
+			<Option target="facede"/>
+		</Unit>
+		<Unit filename="/home/rafaelfigueredog/CLionProjects/facede/Board.h">
+			<Option target="facede"/>
+		</Unit>
+		<Unit filename="/home/rafaelfigueredog/CLionProjects/facede/CPU.cpp">
+			<Option target="facede"/>
+		</Unit>
+		<Unit filename="/home/rafaelfigueredog/CLionProjects/facede/CPU.h">
+			<Option target="facede"/>
+		</Unit>
+		<Unit filename="/home/rafaelfigueredog/CLionProjects/facede/IO.cpp">
+			<Option target="facede"/>
+		</Unit>
+		<Unit filename="/home/rafaelfigueredog/CLionProjects/facede/IO.h">
+			<Option target="facede"/>
+		</Unit>
+		<Unit filename="/home/rafaelfigueredog/CLionProjects/facede/Led.cpp">
+			<Option target="facede"/>
+		</Unit>
+		<Unit filename="/home/rafaelfigueredog/CLionProjects/facede/Led.h">
+			<Option target="facede"/>
+		</Unit>
+		<Unit filename="/home/rafaelfigueredog/CLionProjects/facede/Memory.cpp">
+			<Option target="facede"/>
+		</Unit>
+		<Unit filename="/home/rafaelfigueredog/CLionProjects/facede/Memory.h">
+			<Option target="facede"/>
+		</Unit>
+		<Unit filename="/home/rafaelfigueredog/CLionProjects/facede/main.cpp">
+			<Option target="facede"/>
+		</Unit>
+		<Unit filename="/home/rafaelfigueredog/CLionProjects/facede/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

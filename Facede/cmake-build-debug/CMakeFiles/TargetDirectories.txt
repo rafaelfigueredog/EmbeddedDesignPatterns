@@ -1,0 +1,3 @@
+/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug/CMakeFiles/facede.dir
+/home/rafaelfigueredog/CLionProjects/facede/cmake-build-debug/CMakeFiles/edit_cache.dir

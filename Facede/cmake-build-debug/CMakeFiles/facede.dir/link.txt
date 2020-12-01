@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/facede.dir/main.cpp.o CMakeFiles/facede.dir/Memory.cpp.o CMakeFiles/facede.dir/IO.cpp.o CMakeFiles/facede.dir/Board.cpp.o CMakeFiles/facede.dir/CPU.cpp.o CMakeFiles/facede.dir/Led.cpp.o  -o facede 

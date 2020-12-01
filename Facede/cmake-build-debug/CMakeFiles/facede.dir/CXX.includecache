@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rafaelfigueredog/CLionProjects/facede/Board.cpp
+Board.h
+/home/rafaelfigueredog/CLionProjects/facede/Board.h
+
+/home/rafaelfigueredog/CLionProjects/facede/Board.h
+Memory.h
+/home/rafaelfigueredog/CLionProjects/facede/Memory.h
+CPU.h
+/home/rafaelfigueredog/CLionProjects/facede/CPU.h
+IO.h
+/home/rafaelfigueredog/CLionProjects/facede/IO.h
+Led.h
+/home/rafaelfigueredog/CLionProjects/facede/Led.h
+
+/home/rafaelfigueredog/CLionProjects/facede/CPU.h
+
+/home/rafaelfigueredog/CLionProjects/facede/IO.h
+string
+-
+
+/home/rafaelfigueredog/CLionProjects/facede/Led.h
+
+/home/rafaelfigueredog/CLionProjects/facede/Memory.h
+
