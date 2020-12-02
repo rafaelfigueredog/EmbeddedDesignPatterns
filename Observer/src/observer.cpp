@@ -6,7 +6,7 @@ class IObserver
 {
 public:
 	virtual ~IObserver(){};
-	virtual void Update(const std::string &message_from_subject) = 0;
+	virtual void Update(const float &message_from_subject) = 0;
 };
 
 class ISubject
@@ -80,7 +80,7 @@ public:
 		std::cout << "Observador deletado \"" << this->number_ << "\".\n";
 	}
 
-	void Update(const std::string &message_from_subject) override
+	void Update(const float &message_from_subject) override
 	{
 		message_from_subject_ = message_from_subject;
 		PrintInfo();
@@ -96,7 +96,7 @@ public:
 	}
 
 private:
-	std::string message_from_subject_;
+	float message_from_subject_;
 	Sensor &subject_;
 	static int static_number_;
 	int number_;
