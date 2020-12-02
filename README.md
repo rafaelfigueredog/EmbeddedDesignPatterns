@@ -16,6 +16,6 @@ Esse material foi criado para fins didáticos com objetivo demosntrar o uso de a
 - State
 
 ### Autores
-##### Allan Bispo
-##### Rafael Guimarães
+. Allan Bispo
+. Rafael Guimarães
 
