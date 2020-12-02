@@ -17,6 +17,7 @@ Esse material foi criado para fins didáticos com objetivo demosntrar o uso de a
 
 ### Autores
 Allan Bispo - Engenharia de Computação IFPB
+
 Rafael Guimarães - Engenharia de Computação IFPB
 
 
