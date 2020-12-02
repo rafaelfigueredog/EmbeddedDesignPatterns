@@ -4,17 +4,16 @@ Esse material foi criado para fins didáticos com objetivo demosntrar o uso de a
 
 ### Padrões de Criação
   - Singleton
-  - Factory Method
+  - Builder
 
 ### Padrões Estruturais
   - Adapter 
   - Facede
 
 ### Padrões Comportamentais
-- Mediator
-- Observer 
-- State
-
+  - Observer 
+  
+  
 ### Autores
 Allan Bispo - Engenharia de Computação IFPB </br>
 Rafael Guimarães - Engenharia de Computação IFPB
