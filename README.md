@@ -16,5 +16,5 @@ Esse material foi criado para fins didáticos com objetivo demosntrar o uso de a
 - State
 
 ### Autores
-Allan Bispo - Engenharia de Computação IFPB
+Allan Bispo - Engenharia de Computação IFPB </br>
 Rafael Guimarães - Engenharia de Computação IFPB
