@@ -12,6 +12,7 @@ Esse material foi criado para fins didáticos com objetivo demosntrar o uso de a
 
 ### Padrões Comportamentais
   - Observer 
+  - Mediator
   
   
 ### Autores
