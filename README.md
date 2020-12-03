@@ -5,6 +5,7 @@ Esse material foi criado para fins didáticos com objetivo demosntrar o uso de a
 ### Padrões de Criação
   - Singleton
   - Builder
+  - Factory Method
 
 ### Padrões Estruturais
   - Adapter 
