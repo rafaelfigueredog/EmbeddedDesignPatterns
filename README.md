@@ -1,17 +1,23 @@
 # Padrões de Projeto aplicados em Sistemas Embarcados
 
-Esse material foi criado para fins didáticos com objetivo demosntrar o uso de alguns padrões de projeto Gof no contexto de sistemas embarcados. 
+Esse material foi criado para fins didáticos com objetivo demonstrar o uso de alguns padrões de projeto GoF no contexto de sistemas embarcados. 
 
 ### Padrões de Criação
-  - Singleton
+  - Factory Method
   - Builder
+  - Singleton
 
 ### Padrões Estruturais
   - Adapter 
-  - Facede
+  - Facade
 
 ### Padrões Comportamentais
+  - Mediator
+  - Memento
   - Observer 
+  - State
+  - Strategy
+  - Template Method
   
   
 ### Autores
