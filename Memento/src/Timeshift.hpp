@@ -14,6 +14,7 @@ private:
   std::vector<std::string> backups;
 public:
   Timeshift();
+  ~Timeshift();
   void backup(std::string date);
   std::string restore(int v);
 };
