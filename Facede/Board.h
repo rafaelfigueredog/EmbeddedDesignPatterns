@@ -6,7 +6,7 @@
 #define FACEDE_BOARD_H
 
 #include "Memory.h"
-#include "CPU.h"
+#include "InterruptHandler.h"
 #include "IO.h"
 #include "Led.h"
 
@@ -15,7 +15,7 @@ class Board {
 private:
 
     Memory memory;
-    CPU cpu;
+    InterruptHandler interruptHandler;
     IO io;
     Led led;
 

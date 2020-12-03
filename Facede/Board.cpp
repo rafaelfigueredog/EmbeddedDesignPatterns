@@ -7,7 +7,7 @@ Board::Board() {}
 void Board::facedeBoard() {
     this->io = IO();
     this->memory = Memory();
-    this->cpu = CPU();
+    this->interruptHandler = InterruptHandler();
     this->led = Led();
     io.write("Boad Initialized");
 }

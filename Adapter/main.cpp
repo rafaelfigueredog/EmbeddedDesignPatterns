@@ -14,7 +14,7 @@ int main() {
 
     std::cout << "\nMétodo Set com interface especifica." << std::endl;
     SoftwareAdapter adaptedReg = SoftwareAdapter();
-    adaptedReg.set(31, true);
+    adaptedReg.set(31, 1);
     adaptedReg.showReg();
     return 0;
 }
