@@ -3,21 +3,23 @@
 
 int main() {
 
-  Sensor* newSensor = nullptr;
+  Sensor* Sensor1 = nullptr;
+  Sensor* Sensor2 = nullptr;
 
-  newSensor = Sensor::Create(Light_S);
-  std::cout << newSensor->Operation() << "\n";
+  Sensor1 = Sensor::Create(Light_S);
+  std::cout << Sensor1->Operation() << "\n";
 
-  newSensor = Sensor::Create(Sound_S);
-  std::cout << newSensor->Operation() << "\n";
+  Sensor1 = Sensor::Create(Sound_S);
+  std::cout << Sensor1->Operation() << "\n";
 
-  newSensor = Sensor::Create(Temp_S);
-  std::cout << newSensor->Operation() << "\n";
+  Sensor2 = Sensor::Create(Temp_S);
+  std::cout << Sensor2->Operation() << "\n";
 
-  newSensor = Sensor::Create(Infrared_S);
-  std::cout << newSensor->Operation() << "\n";
+  Sensor2 = Sensor::Create(Infrared_S);
+  std::cout << Sensor2->Operation() << "\n";
   
-  delete newSensor;
+  delete Sensor1;
+  delete Sensor2;
 
   return 0;
 }
