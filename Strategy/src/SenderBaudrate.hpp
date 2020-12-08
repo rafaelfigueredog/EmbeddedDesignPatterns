@@ -6,7 +6,7 @@
 class SenderBaudrate
 {
 public:
-  virtual std::string baudrate();
+  virtual std::string baudrate() = 0;
 };
 
 class SPIBaudrate: public SenderBaudrate

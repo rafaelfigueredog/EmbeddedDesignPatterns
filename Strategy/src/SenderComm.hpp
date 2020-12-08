@@ -6,7 +6,7 @@
 class SenderComm
 {
 public:
-  virtual std::string comm();
+  virtual std::string comm() = 0;
 };
 
 class SPIComm: public SenderComm

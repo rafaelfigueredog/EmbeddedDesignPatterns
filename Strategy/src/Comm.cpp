@@ -2,15 +2,15 @@
 
 std::string SPIComm::comm()
 {
-  return {"SPI"};
+  return "SPI";
 }
 
 std::string UARTComm::comm()
 {
-  return {"UART"};
+  return "UART";
 }
 
 std::string I2CComm::comm()
 {
-  return {"I2C"};
+  return "I2C";
 }

@@ -9,11 +9,11 @@
 class Sender
 {
 private:
-  SenderComm sendComm; // comm type
-  SenderMode sendMode; // byte or word
-  SenderBaudrate sendBitrate; // comm bitrate
+  SenderComm* sendComm; // comm type
+  SenderMode* sendMode; // byte or word
+  SenderBaudrate* sendBitrate; // comm bitrate
 public:
-  Sender(SenderComm sc, SenderMode sm, SenderBaudrate sb);
+  Sender(SenderComm* sc, SenderMode* sm, SenderBaudrate* sb);
   void write();
   void read();
 };

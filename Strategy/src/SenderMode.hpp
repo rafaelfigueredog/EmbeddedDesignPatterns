@@ -6,7 +6,7 @@
 class SenderMode
 {
 public:
-  virtual std::string mode();
+  virtual std::string mode() = 0;;
 };
 
 class SPIMode: public SenderMode

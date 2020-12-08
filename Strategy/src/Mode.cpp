@@ -2,15 +2,15 @@
 
 std::string SPIMode::mode()
 {
-  return {"WORD"};
+  return "WORD";
 }
 
 std::string UARTMode::mode()
 {
-  return {"BYTE"};
+  return "BYTE";
 }
 
 std::string I2CMode::mode()
 {
-  return {"D-WORD"};
+  return "D-WORD";
 }
