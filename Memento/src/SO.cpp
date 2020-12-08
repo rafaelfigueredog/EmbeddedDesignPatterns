@@ -7,6 +7,11 @@ SO::SO(std::string date)
   this->ts = new Timeshift();
 }
 
+SO::~SO()
+{
+  delete ts;
+}
+
 void SO::backup()
 {
   this->ts->backup(this->SODate);

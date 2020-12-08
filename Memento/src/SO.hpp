@@ -13,6 +13,7 @@ private:
   std::string SODate;
 public:
   SO(std::string date = "01/01/1990");
+  ~SO();
   void backup();
   void restore(int v);
   void showDate();

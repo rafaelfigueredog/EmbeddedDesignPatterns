@@ -30,5 +30,8 @@ int main()
 
   so->restore(1);
   so->showDate();
+
+  delete so;
+  
   return 0;
 }
