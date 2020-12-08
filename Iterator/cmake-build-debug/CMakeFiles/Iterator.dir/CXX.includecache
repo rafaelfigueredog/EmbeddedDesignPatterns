@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rafaelfigueredog/CLionProjects/Iterator/bitMap.h
+cstdint
+-
+iterator.h
+/home/rafaelfigueredog/CLionProjects/Iterator/iterator.h
+
+/home/rafaelfigueredog/CLionProjects/Iterator/iterator.h
+bitMap.h
+/home/rafaelfigueredog/CLionProjects/Iterator/bitMap.h
+iteratorInterface.h
+/home/rafaelfigueredog/CLionProjects/Iterator/iteratorInterface.h
+
+/home/rafaelfigueredog/CLionProjects/Iterator/iteratorInterface.h
+
+/home/rafaelfigueredog/CLionProjects/Iterator/main.cpp
+iostream
+-
+bitMap.h
+/home/rafaelfigueredog/CLionProjects/Iterator/bitMap.h
+iterator.h
+/home/rafaelfigueredog/CLionProjects/Iterator/iterator.h
+
