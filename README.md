@@ -18,6 +18,7 @@ Esse material foi criado para fins didáticos com objetivo demonstrar o uso de a
   - State
   - Strategy
   - Template Method
+  - Iterator
   
   
 ### Autores
