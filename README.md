@@ -30,4 +30,4 @@ Each directory in the project corresponds to a specific design pattern. Inside e
 - [Rafael Guimarães](https://github.com/rafaelfigueredog) - Computer Engineering at IFPB
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License
